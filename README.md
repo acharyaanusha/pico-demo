@@ -1,4 +1,4 @@
-# byte-demo
+# pico-demo
 
-A tiny repo for demoing [Byte](https://github.com/acharyaanusha/byte). `npm test` fails on purpose:
-`subtotal` ignores quantity. Ask Claude Code to fix it and watch Byte react.
+A tiny repo for demoing [Pico](https://github.com/acharyaanusha/pico). `npm test` fails on purpose:
+`subtotal` ignores quantity. Ask Claude Code to fix it and watch Pico react.
